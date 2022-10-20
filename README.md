@@ -1,4 +1,3 @@
-### NOTES
 
 Dependencies -> file-saver and XLSX
 
