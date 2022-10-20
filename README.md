@@ -1,4 +1,4 @@
-#NOTES
+*NOTES
 
 Dependencies -> file-saver and XLSX
 XLSX version of this example -> 0.16.0
