@@ -1,7 +1,7 @@
 
 Dependencies -> file-saver and XLSX
 
-XLSX version of this example -> 0.16.0
+XLSX version in this example -> 0.16.0
 
 csvData -> array of objects (headers are derived - specify for more control)
 
